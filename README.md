@@ -5,3 +5,5 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 
+Check the app out here! 
+https://drive.google.com/file/d/1280AfBkeGcMfhwrcNL4Mru-JsJo4rLgD/view
