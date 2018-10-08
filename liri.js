@@ -98,11 +98,6 @@ if (userCommand === "spotify-this-song") {
 }
 
 
-
-
-
-
-
  if (userCommand === "do-what-it-says") {
 
  var fs = require("fs");
